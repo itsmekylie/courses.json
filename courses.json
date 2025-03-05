@@ -1,0 +1,24 @@
+{
+"courses": [
+{
+"year_level": "1st",
+"sem": "1st",
+"code": "IT112",
+"description": "Computer Programming 1",
+"credit": "3.0"
+},
+{
+"year_level": "1st",
+"sem": "2nd",
+"code": "IT113",
+"description": "Computer Programming 2",
+"credit": "3.0"
+}
+// Add all your courses here
+]
+}
+Step 2: Upload courses.json to your GitHub page repository.
+Step 3: Modify Your HTML and CSS files accordingly to accommodate your courses that
+you will show your portfolio
+Step 4: Add JavaScript to Fetch JSON in your portfolio
+Step 5: Submit your URL for your JSON file and web portfolio to your instructor.
